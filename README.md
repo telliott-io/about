@@ -1,4 +1,4 @@
-# About https://github.com/telliott-io (or...overengineering a personal website for the heck of it)
+# About [telliott.io](https://github.com/telliott-io) (or...overengineering a personal website for the heck of it)
 
 This GitHub org contains various projects that make up my personal site: https://telliott.io.
 
