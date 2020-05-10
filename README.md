@@ -22,9 +22,9 @@ The first is key to what made me want to do this in the first place. The second 
 
 These are vague and kinda meta goals, so I also set out with a couple of specific use cases:
 
-* I should be able to move the site between two cloud providers with zero human interaction after triggering the move, and this should result in minimal to no downtime **(IN PROGRESS)**
-* I should be able to create a new application from a template, push to GitHub and automatically have it deployed to "production". **(IN PROGRESS)**
-* Someone else should be able to fork a few of these repos and stand up their own site in their own cloud accounts with minimal additional configuration. **(IN PROGRESS)**
+* I should be able to move the site between two cloud providers with zero human interaction after triggering the move, and this should result in minimal to no downtime [**IN PROGRESS**](https://github.com/orgs/telliott-io/projects/1)
+* I should be able to create a new application from a template, push to GitHub and automatically have it deployed to "production". [**IN PROGRESS**](https://github.com/orgs/telliott-io/projects/3)
+* Someone else should be able to fork a few of these repos and stand up their own site in their own cloud accounts with minimal additional configuration. [**IN PROGRESS**](https://github.com/orgs/telliott-io/projects/3)
 
 ## Technologies
 
